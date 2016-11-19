@@ -1,2 +1,2 @@
 # smallroom
-A website which record our grouth
+A website which record our growth
